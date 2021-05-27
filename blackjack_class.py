@@ -1,5 +1,3 @@
-# ♠︎♣︎♥︎♦︎
-
 temporary = []
 
 def check_overlap(list1, list2, card):
